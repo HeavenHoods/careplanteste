@@ -1,0 +1,8 @@
+com\careplan\careplanapp\servlets\careplanhome.class
+controler\ProcControl.class
+model\Procedimentos.class
+com\careplan\careplanapp\JAXRSConfiguration.class
+com\careplan\careplanapp\UserValidationService.class
+com\careplan\careplanapp\resources\JavaEE8Resource.class
+com\careplan\careplanapp\resources\FilterConfig.class
+model\DAO.class
